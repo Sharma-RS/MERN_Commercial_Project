@@ -2,6 +2,7 @@
   "name": "mern_commercial_project",
   "version": "1.0.0",
   "description": "Cement Distributors",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "start"
