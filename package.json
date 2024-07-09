@@ -1,0 +1,17 @@
+{
+  "name": "mern_commercial_project",
+  "version": "1.0.0",
+  "description": "Cement Distributors",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "react",
+    "nodejs"
+  ],
+  "author": "R.S.Sharma",
+  "license": "ISC"
+}
